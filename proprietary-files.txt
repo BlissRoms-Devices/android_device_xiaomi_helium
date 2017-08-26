@@ -301,5 +301,5 @@ lib/hw/fingerprint.fpc.so
 lib/lib_fpc_tac_shared.so
 
 # Sensors
-etc/sensors/hals.conf
+etc/sensors/hals.conf:vendor/etc/sensors/hals.conf
 etc/sensors/sensor_def_qcomdev.conf
