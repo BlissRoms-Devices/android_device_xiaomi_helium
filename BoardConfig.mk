@@ -33,6 +33,7 @@ TARGET_KERNEL_CONFIG := lineageos_hydrogen_defconfig
 
 WITH_AICP_CHARGER := false
 WITH_LINEAGE_CHARGER := false
+BOARD_USES_CYANOGEN_HARDWARE := true
 
 # Properties
 TARGET_SYSTEM_PROP += $(DEVICE_PATH)/system.prop
