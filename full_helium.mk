@@ -18,12 +18,12 @@
 $(call inherit-product, $(SRC_TARGET_DIR)/product/core_64_bit.mk)
 $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 
-# Inherit from hydrogen device
-$(call inherit-product, device/xiaomi/hydrogen/device.mk)
+# Inherit from helium device
+$(call inherit-product, device/xiaomi/helium/device.mk)
 
 # Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := hydrogen
-PRODUCT_NAME := full_hydrogen
+PRODUCT_DEVICE := helium
+PRODUCT_NAME := full_helium
 PRODUCT_BRAND := Xiaomi
-PRODUCT_MODEL := hydrogen
+PRODUCT_MODEL := helium
 PRODUCT_MANUFACTURER := Xiaomi

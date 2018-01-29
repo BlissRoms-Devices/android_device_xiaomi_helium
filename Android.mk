@@ -21,6 +21,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),hydrogen)
+ifeq ($(TARGET_DEVICE),helium)
 include $(call all-makefiles-under,$(LOCAL_PATH))
 endif

@@ -19,7 +19,7 @@
 set -e
 
 # Required!
-export DEVICE=hydrogen
+export DEVICE=helium
 export DEVICE_COMMON=msm8956-common
 export VENDOR=xiaomi
 
