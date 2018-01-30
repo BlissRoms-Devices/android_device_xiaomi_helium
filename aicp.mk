@@ -26,7 +26,7 @@ PRODUCT_BRAND := Xiaomi
 PRODUCT_DEVICE := helium
 PRODUCT_NAME := rr_helium
 PRODUCT_MANUFACTURER := Xiaomi
-PRODUCT_MODEL := Mi Max
+PRODUCT_MODEL := Mi Max Prime
 TARGET_VENDOR := Xiaomi
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
