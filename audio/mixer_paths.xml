@@ -52,15 +52,15 @@
     <ctl name="LINEOUT4 Volume" value="13" />
     <ctl name="HPHL Volume" value="20" />
     <ctl name="HPHR Volume" value="20" />
-    <ctl name="RX0 Digital Volume" value="84" />
-    <ctl name="RX1 Digital Volume" value="84" />
-    <ctl name="RX2 Digital Volume" value="84" />
-    <ctl name="RX3 Digital Volume" value="84" />
-    <ctl name="RX4 Digital Volume" value="84" />
-    <ctl name="RX5 Digital Volume" value="84" />
-    <ctl name="RX6 Digital Volume" value="84" />
-    <ctl name="RX7 Digital Volume" value="84" />
-    <ctl name="RX8 Digital Volume" value="84" />
+    <ctl name="RX0 Digital Volume" value="88" />
+    <ctl name="RX1 Digital Volume" value="88" />
+    <ctl name="RX2 Digital Volume" value="88" />
+    <ctl name="RX3 Digital Volume" value="88" />
+    <ctl name="RX4 Digital Volume" value="88" />
+    <ctl name="RX5 Digital Volume" value="88" />
+    <ctl name="RX6 Digital Volume" value="88" />
+    <ctl name="RX7 Digital Volume" value="88" />
+    <ctl name="RX8 Digital Volume" value="88" />
     <ctl name="ADC1 Volume" value="12" />
     <ctl name="ADC2 Volume" value="12" />
     <ctl name="ADC3 Volume" value="12" />
@@ -1721,7 +1721,7 @@
         <ctl name="SLIM_0_RX Channels" value="One" />
         <ctl name="RX INT6_2 MUX" value="RX0" />
         <ctl name="COMP6 Switch" value="1" />
-        <ctl name="RX6 Mix Digital Volume" value="76" />
+        <ctl name="RX6 Mix Digital Volume" value="88" />
     </path>
 
     <path name="wsa-speaker">
