@@ -50,12 +50,12 @@ PRODUCT_COPY_FILES += \
 
 # Libshims
 PRODUCT_PACKAGES += \
-    libshims_ims \
-    libshims_get_process_name
+    libshims_get_process_name \
+    rild_socket
 
 # Ramdisk
 PRODUCT_PACKAGES += \
-    init.hydrogen.rc
+    init.helium.rc
 
 # Sensors
 PRODUCT_COPY_FILES += \
