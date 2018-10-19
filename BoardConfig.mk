@@ -21,6 +21,9 @@ DEVICE_PATH := device/xiaomi/helium
 # Assertions
 TARGET_OTA_ASSERT_DEVICE := helium
 
+# Shipping API
+PRODUCT_SHIPPING_API_LEVEL := 23
+
 # Shims
 TARGET_LD_SHIM_LIBS := \
     /system/vendor/lib64/lib-imsvt.so|libshims_ims.so \
