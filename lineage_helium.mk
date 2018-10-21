@@ -32,8 +32,6 @@ TARGET_VENDOR := Xiaomi
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
 # Use the latest approved GMS identifiers unless running a signed build
-ifneq ($(SIGN_BUILD),true)
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    BUILD_FINGERPRINT=Xiaomi/helium/helium:6.0.1/MMB29M/V8.2.3.0.MBCCNDL:user/release-keys \
-    PRIVATE_BUILD_DESC="helium-user 6.0.1 MMB29M V8.2.3.0.MBCCNDL release-keys"
-endif
+    PRIVATE_BUILD_DESC="helium-user 7.0 NRD90M V9.6.2.0.NBDMIFD release-keys"
+BUILD_FINGERPRINT=Xiaomi/helium/helium:7.0/NRD90M/V9.6.2.0.NBDMIFD:user/release-keys
