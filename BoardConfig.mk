@@ -50,7 +50,7 @@ TARGET_SYSTEM_PROP += $(DEVICE_PATH)/system.prop
 #BOARD_SEPOLICY_DIRS += $(DEVICE_PATH)/sepolicy
 
 # Tap-to-Wake
-TARGET_TAP_TO_WAKE_NODE := "/sys/bus/i2c/devices/4-0038/wakeup_mode"
+TARGET_TAP_TO_WAKE_NODE := "/proc/touchpanel/double_tap_enable"
 
 # Security patch level
 VENDOR_SECURITY_PATCH := 2018-07-01
