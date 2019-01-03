@@ -303,3 +303,19 @@ lib/lib_fpc_tac_shared.so
 # Sensors
 etc/sensors/hals.conf:vendor/etc/sensors/hals.conf
 etc/sensors/sensor_def_qcomdev.conf
+
+# Media firmware
+etc/firmware/venus.b00
+etc/firmware/venus.b01
+etc/firmware/venus.b02
+etc/firmware/venus.b03
+etc/firmware/venus.b04
+etc/firmware/venus.mbn
+etc/firmware/venus.mdt
+etc/firmware/venus-v1.b00
+etc/firmware/venus-v1.b01
+etc/firmware/venus-v1.b02
+etc/firmware/venus-v1.b03
+etc/firmware/venus-v1.b04
+etc/firmware/venus-v1.mbn
+etc/firmware/venus-v1.mdt
