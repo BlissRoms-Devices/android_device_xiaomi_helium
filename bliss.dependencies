@@ -13,7 +13,7 @@
 	},
 	{
 		"remote": "github",
-		"repository": "BlissRoms-Vendor/proprietary_vendor_xiaomi",
+		"repository": "BlissRoms-Devices/proprietary_vendor_xiaomi",
 		"target_path": "vendor/xiaomi",
 		"revision": "p9.0"
 	},
